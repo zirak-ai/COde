@@ -4,8 +4,8 @@ This dataset is associated with our paper, currently under peer review, titled:
 **"A benchmark multimodal oro-dental dataset for large vision-language models."**
 
 In this repository, we have shared only the textual part of the dataset.  
-The complete dataset is available on HuggingFace:  
-[https://huggingface.co/datasets/zirak-ai/COde](https://huggingface.co/datasets/zirak-ai/COde)
+The complete dataset is available at:  
+[https://doi.org/10.57967/hf/6421](https://doi.org/10.57967/hf/6421)
 
 ## Data Preprocessing
 
