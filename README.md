@@ -17,4 +17,4 @@ The configuration and setup for supervised finetuning are provided in [`SFT-Conf
 
 ## Evaluation
 
-The evaluation procedure for the finetuned model is implemented in [`evaluate.py`](./evaluate.py). This script contains the metrics and testing pipeline used to assess model performance on the benchmark dataset. If you want to reproduce or understand the evaluation process, please refer to [`evaluate.py`](./evaluate.py).
+The evaluation procedure for the finetuned model is implemented in [`evaluate.py`](./evaluate.py). This script contains the metrics and testing pipeline used to assess model performance on the benchmark dataset.
